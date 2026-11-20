@@ -15,6 +15,31 @@
   <a href="#-français">🇫🇷 Français</a> · <a href="#-english">🇬🇧 English</a>
 </p>
 
+## 📸 Captures d'écran · Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/capture-1.png" alt="Menu principal / Main menu" width="100%"><br>
+      <sub><b>Menu principal</b> · <i>Main menu</i></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/capture-2.png" alt="Génération du labyrinthe / Maze generation" width="100%"><br>
+      <sub><b>Une chaîne devient un labyrinthe</b> · <i>A string becomes a maze</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/capture-3.png" alt="En jeu / In game" width="100%"><br>
+      <sub><b>En jeu, à la première personne</b> · <i>In game, first person</i></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/capture-4.png" alt="Fin de niveau / Level complete" width="100%"><br>
+      <sub><b>Fin de niveau : note et parcours</b> · <i>Level complete: grade and route</i></sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🇫🇷 Français
