@@ -48,10 +48,6 @@
 
 Tape une chaîne de **1 à 20 caractères** (lettres A-Z et chiffres 0-9) : le jeu calcule son empreinte **SHA-256** et en tire un labyrinthe unique. La vue plonge ensuite du plan vu de dessus jusqu'à l'entrée, et tu te retrouves dedans, à la première personne, avec **10 minutes pour trouver la sortie**.
 
-<p align="center">
-  <img src="assets/asciirinthe-affiche-A-1920x1080.png" alt="Capture du jeu" width="720">
-</p>
-
 ### Plus de labyrinthes que de grains de sable sur Terre
 
 Il existe plus de **1,3 × 10³¹** chaînes possibles, soit environ **2 000 milliards de fois** le nombre estimé de grains de sable sur Terre (≈ 7,5 × 10¹⁸).
