@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://damballah.itch.io/asciirinthe"><b>▶ JOUER / PLAY — damballah.itch.io/asciirinthe</b></a>
+  <a href="https://damballah.itch.io/asciirinthe" target="_blank" ><b>▶ JOUER / PLAY — damballah.itch.io/asciirinthe</b></a>
 </p>
 
 <p align="center">
