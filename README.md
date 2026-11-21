@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/asciirinthe-titre-couleurs.gif" alt="ASCIIRINTHE" width="720">
+  <img src="assets/asciirinthe-titre-couleurs-transparent.gif" alt="ASCIIRINTHE" width="720">
 </p>
 
 <p align="center">
