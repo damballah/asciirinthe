@@ -94,14 +94,6 @@ Le SHA-256, le générateur de QR code et la police du titre sont codés à la m
 
 Les scores et réglages sont enregistrés dans le navigateur (`localStorage`), sur ton appareil uniquement.
 
-### Structure
-
-```
-index.html   ← le jeu complet (HTML + CSS + JavaScript, un seul fichier)
-assets/      ← images et GIF de présentation
-README.md
-```
-
 ### Crédits
 
 Conçu par **Damballah**, et développé avec l'aide de **Claude**, l'IA d'Anthropic.
